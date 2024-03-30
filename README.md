@@ -1,7 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFTMF47ghP-EA/profile-displaybackgroundimage-shrink_200_800/0/1699555143881?e=2147483647&v=beta&t=Ojrbz_vn7UfInsR5sS6S08Pjjc3NSgSNJrKFaiJun98)](https://media.licdn.com/dms/image/D4D16AQFTMF47ghP-EA/profile-displaybackgroundimage-shrink_200_800/0/1699555143881?e=2147483647&v=beta&t=Ojrbz_vn7UfInsR5sS6S08Pjjc3NSgSNJrKFaiJun98)
-<h1 align="center">Hi 😊👋 , I'm Martha Agu</h1>
-<h3 align="center">A professional Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<h1 align="center">Hi 👋  , I'm Martha Agu</h1>
+<h3 align="center">Professional Software Developer | Passionate about Web and Mobile Development</h3><img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martha-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="martha-cmd" /> </p>
 
